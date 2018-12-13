@@ -1,0 +1,1 @@
+which sudo | xargs ls -lah
